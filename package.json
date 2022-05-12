@@ -13,7 +13,7 @@
   ],
   "author": "Damian Cortez <damiancoah@gmail.com>",
   "license": "MIT",
-  "bin":{
+  "bin": {
     "random-msg": "./bin/global.js"
   },
   "preferGlobal": true
